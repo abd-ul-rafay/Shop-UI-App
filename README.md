@@ -1,5 +1,5 @@
 # Shop App
-## A Flutter project.
+A Flutter project.
 
 ## Flutter Shop App Beautiful Interface
 The app contains two screens, home screen and details screen.
